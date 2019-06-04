@@ -1,0 +1,116 @@
+
+      <div class="panel-header panel-header-sm">
+      </div>
+      <div class="content">
+        <div class="row">
+          <div class="col-md-8">
+            <div class="card">
+              <div class="card-header">
+                <h5 class="title">Register</h5>
+
+                    {% if msg %}
+                      <label>{{ msg | safe }}</label>
+                    {% else %}
+                      <label>Please add your registration information</label>
+                    {% endif %}
+
+              </div>
+              <div class="card-body">
+
+                <form role="form" method="post" action="">
+
+                    {{ form.hidden_tag() }}
+
+                    <div class="row">
+
+                        <div class="col-md-1 pr-1"></div>
+
+                        <div class="col-md-3 pr-1">
+                            <div class="form-group">
+                                <label>Friendly Name (e.g. John Doe)</label>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 pr-1">
+                            <div class="form-group">
+                                {{ form.name(placeholder="Friendly Name",class="form-control") }}
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-md-1 pr-1"></div>
+
+                        <div class="col-md-3 pr-1">
+                            <div class="form-group">
+                                <label>Username</label>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 pr-1">
+                            <div class="form-group">
+                                {{ form.username(placeholder="Username",class="form-control") }}
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-md-1 pr-1"></div>
+
+                        <div class="col-md-3 pr-1">
+                            <div class="form-group">
+                                <label>eMail</label>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 pr-1">
+                            <div class="form-group">
+                                {{ form.email(placeholder="Email",class="form-control") }}
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-md-1 pr-1"></div>
+
+                        <div class="col-md-3 pr-1">
+                            <div class="form-group">
+                                <label>Password</label>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6 pr-1">
+                            <div class="form-group">
+                                {{ form.password(placeholder="Password",class="form-control",type="password") }}
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-1 pr-1"></div>
+
+                        <div class="col-md-2 pr-1">
+                            <button type="submit" class="btn btn-fill btn-primary">Register</button> 
+                        </div>
+
+                    </div>
+
+                    </form>
+                </div>
+              </div>
+              <div class="card-footer">
+                Have already an account? Please <a href={{ url_for('login') }}>login</a>
+              </div>
+
+          </div>
+
+        </div>
+      </div>
+
