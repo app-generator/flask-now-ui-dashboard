@@ -1,4 +1,4 @@
-# [Flask Dashboard Now Ui](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design)
+# [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design)
 
 Live [DEMO](https://flask-argon-dashboard.appseed.us/) - Open-Source **Admin Dashboard** with [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard) design coded in [Flask](http://flask.pocoo.org/)
 
