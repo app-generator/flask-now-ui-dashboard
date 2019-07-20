@@ -1,10 +1,10 @@
-# [Flask Now UI Dashboard](https://flask-now-ui-dashboard.appseed.us)
+# [Flask Dashboard NowUi](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design)
 
 Live [DEMO](https://flask-argon-dashboard.appseed.us/) - Open-Source **Admin Dashboard** with [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard) design coded in [Flask](http://flask.pocoo.org/)
 
 <br />
 
-![Flask Dashboard](https://github.com/app-generator/flask-now-ui-dashboard/blob/master/screenshots/flask-now-ui-dashboard-intro.gif)
+![Flask Dashboard NowUI - Gif animated intro.](https://github.com/app-generator/flask-now-ui-dashboard/blob/master/screenshots/flask-now-ui-dashboard-intro.gif)
 
 <br />
 
@@ -34,6 +34,8 @@ Live [DEMO](https://flask-argon-dashboard.appseed.us/) - Open-Source **Admin Das
 
 6. Navigate to [http://localhost:5000](http://localhost:5000)
 
+<br />
+
 ## Features
 
 - SQLite database
@@ -41,17 +43,23 @@ Live [DEMO](https://flask-argon-dashboard.appseed.us/) - Open-Source **Admin Das
 - Static Build `python ./static.py`. The static build goes to `app/build` directory 
 - FTP Deploy script. **Info**: this `require node.js` and the edit of `deploy.js` to add FTP server credentials. 
 
+<br />
+
 ## Support
 
-- For issues and features request, use [Github](https://github.com/app-generator/flask-argon-dashboard/issues/new) or join [AppSeed](https://appseed.us) community on [Discord](https://discord.gg/fZC6hup)   
-
-## App Screenshots
-
-![Flask Dashboard](https://github.com/app-generator/flask-now-ui-dashboard/blob/master/screenshots/flask-now-ui-dashboard-register.jpg)
+For issues and features request, use Github or access the [support page](https://appseed.us/support) provided by **AppSeed**
 
 <br />
 
-![Flask Dashboard](https://github.com/app-generator/flask-now-ui-dashboard/blob/master/screenshots/flask-now-ui-dashboard-notif.jpg)
+## App Screenshots
+
+![Flask Dashboard NowUI - App Screen Shot.](https://github.com/app-generator/flask-now-ui-dashboard/blob/master/screenshots/flask-now-ui-dashboard-register.jpg)
+
+<br />
+
+![Flask Dashboard NowUI - App Screen Shot.](https://github.com/app-generator/flask-now-ui-dashboard/blob/master/screenshots/flask-now-ui-dashboard-notif.jpg)
+
+<br />
 
 ## Resources
 
@@ -61,5 +69,4 @@ Live [DEMO](https://flask-argon-dashboard.appseed.us/) - Open-Source **Admin Das
 4. [Read More about Flask Apps](https://blog.appseed.us/tag/flask)
 
 ---
-Made with ♥ by [AppSeed](https://appseed.us?ref=github)
-
+[Flask Dashboard NowUi](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) provided by **AppSeed**
