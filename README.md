@@ -45,19 +45,13 @@ Open-Source **admin dashboard** with **NowUI Design** coded in **Flask**.
 
 <br />
 
-## Support
-
-For issues and features request, use **Github** or access the [support page](https://appseed.us/support) provided by **AppSeed** 
+## Want more? Go PRO!
 
 <br />
 
-## App Screenshots
-
-![Flask Dashboard NowUI - App Screen Shot.](https://github.com/app-generator/flask-now-ui-dashboard/blob/master/screenshots/flask-now-ui-dashboard-register.jpg)
-
-<br />
-
-![Flask Dashboard NowUI - App Screen Shot.](https://github.com/app-generator/flask-now-ui-dashboard/blob/master/screenshots/flask-now-ui-dashboard-notif.jpg)
+| [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) | [Flask Dashboard Argon](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) | [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) |
+| --- | --- | --- |
+| [![Flask Dashboard Material PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-pro-intro.gif)](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)  | [![Flask Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-argon-pro-intro.gif)](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-intro.gif)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
 
 <br />
 
