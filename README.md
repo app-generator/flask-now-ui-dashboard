@@ -2,7 +2,7 @@
 
 Open-Source and Free **[admin dashboard](https://appseed.us/admin-dashboards)** with Now UI Design coded in **[Flask](https://palletsprojects.com/p/flask/)**. **Dashboard** features:
 - SQLite database, SQLAlchemy ORM
-- Autehtication Flow (login, register)
+- Authentication Flow (login, register)
 - Static Build `python ./static.py` via Frozen-Flask
 - **MIT License** 
 
