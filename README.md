@@ -1,12 +1,11 @@
 # [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-nowui-dashboard)
 
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-nowui-dashboard)** coded in **Flask Web Framework** on top of **Black Dashboard** design, crafted by Creative-Tim agency. **Dashboard** features:
-
-<br />
+**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-nowui-dashboard)** coded in **Flask Framework** on top of **Now UI Dashboard** design. **Features**:
 
 - SQLite database
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
+- UI Kit: [Now UI](https://github.com/app-generator/fork-now-ui-dashboard-html) by **Creative-Tim**
 
 <br />
 
