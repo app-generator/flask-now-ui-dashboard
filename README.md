@@ -1,6 +1,8 @@
 # [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-nowui-dashboard)
 
-**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-nowui-dashboard)** coded in **Flask Framework** on top of **Now UI Dashboard** design. **Features**:
+**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-nowui-dashboard)** coded in **Flask Framework** on top of **Now UI Dashboard** design - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**.
+
+**Features**:
 
 - SQLite database
 - SQLAlchemy ORM
@@ -80,4 +82,4 @@ $ # Access the app in browser: http://127.0.0.1:5000/
 <br />
 
 ---
-[Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-nowui-dashboard) provided by **AppSeed**
+[Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-nowui-dashboard) - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**
