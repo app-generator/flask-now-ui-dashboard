@@ -9,6 +9,7 @@
           Source Code
         </a>
       </div>
+      {% if current_user.is_authenticated %}
       <div class="sidebar-wrapper" id="sidebar-wrapper">
         <ul class="nav">
           <li class="active ">
@@ -49,25 +50,12 @@
             </a>
           </li>
 
-          {% if current_user.is_authenticated %}
-
           <li>
             <a href={{ url_for('logout') }}>
               <i class="now-ui-icons media-1_button-power"></i>
               <p>Logout</p>
             </a>
           </li>
-
-          {% else %}
-
-          <li>
-            <a href={{ url_for('login') }}>
-              <i class="now-ui-icons sport_user-run"></i>
-              <p>Login</p>
-            </a>
-          </li>
-
-          {% endif %}
 
           <li class="active-pro">
             <a href="https://appseed.us">
@@ -77,5 +65,6 @@
           </li>
         </ul>
       </div>
+      {% endif %}
     </div>
 
