@@ -11,7 +11,11 @@
                 {% if msg %}
                     <label>{{ msg | safe }}</label>
                 {% else %}
-                    <label>Sign in with your credentials</label>
+                    <label>
+                    Use default credentials: test / pass
+                    <br />
+                    OR <a href={{ url_for('register') }} >create your own user</a>                        
+                    </label>
                 {% endif %}
 
               </div>
@@ -70,7 +74,7 @@
                 </div>
               </div>
               <div class="card-footer">
-                No account? Please &nbsp;&nbsp; <a href={{ url_for('register') }}>register</a>
+                No account? Please &nbsp;&nbsp; <a href={{ url_for('register') }} >register</a>
               </div>
 
           </div>
