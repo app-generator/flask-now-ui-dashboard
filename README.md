@@ -164,7 +164,7 @@ In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboa
 
 ### [Now UI Dashboard](https://www.creative-tim.com/product/now-ui-dashboard)
 
-Now UI Dashboard is a responsive Bootstrap 4 kit provided for free by Invision and Creative Tim. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. Now UI Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful - provided by **Creative-Tim**.
+Now UI Dashboard is a responsive Bootstrap 4 kit provided for free by Invision and Creative Tim. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. Now UI Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started - provided by **Creative-Tim**.
 
 <br />
 
