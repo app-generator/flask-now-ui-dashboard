@@ -1,13 +1,24 @@
 # [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-nowui-dashboard)
 
-**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+**Open-Source Admin Dashboard** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** on top of **NowUI Dashboard** design (free version) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
-### Dashboard Features:
+## Dashboard Features:
 
-- SQLite database
+- UI-Ready, SQLite database
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
-- UI Kit: [Now UI](https://github.com/app-generator/fork-now-ui-dashboard-html) by **Creative-Tim**
+- Forms validation
+- UI Kit: **[NowUI Dashboard](https://flask-now-ui-dashboard.appseed.us/login.html)** (Free version) provided by **Creative-Tim**
+- **MIT License**
+- Support: Free support via **Github** and (Paid) **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
+
+<br />
+
+## Dashboard Links
+
+- [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Product page
+- [Flask Dashboard Now UI](https://github.com/app-generator/flask-now-ui-dashboard/) - Source Code
+- [Flask Dashboard Now UI](https://flask-now-ui-dashboard.appseed.us/login.html) - LIVE Demo
 
 <br />
 
@@ -135,20 +146,25 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## Support
-
-- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and **Github** issues tracker
-- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup) for paid plans and commercial products.
+## Credits & Links
 
 <br />
 
-## Resources
+### [Flask Framework](https://www.palletsprojects.com/p/flask/)
 
-- [Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-nowui-dashboard) - Product page
-- [Flask Dashboard Now UI](https://flask-now-ui-dashboard.appseed.us/) - Live DEMO
-- [Flask Framework](https://www.palletsprojects.com/p/flask/) - The offcial website
-- [Flask Dashboard - Open-Source Boilerplates](https://dev.to/sm0ke/flask-dashboard-open-source-boilerplates-dkg) - A popular article published on Dev.to platform
-- [Flask Dashboard](https://admin-dashboards.com/tags/flask-dashboard) - Index provided by **Admin-Dashboards.com**
+[Flask](/what-is/flask) is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.
+
+<br />
+
+## [What is dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
+
+In information technology, a **[dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))** is a user interface that, somewhat resembling an automobile's dashboard, organizes and presents information in a way that is easy to read. However, a computer dashboard is more likely to be interactive than an automobile dashboard (unless it is also computer-based). To some extent, most graphical user interfaces (GUIs) resemble a dashboard - by [Techtarget](https://searchcio.techtarget.com/definition/dashboard)
+
+<br />
+
+### [Now UI Dashboard](https://www.creative-tim.com/product/now-ui-dashboard)
+
+Now UI Dashboard is a responsive Bootstrap 4 kit provided for free by Invision and Creative Tim. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. Now UI Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful - provided by **Creative-Tim**.
 
 <br />
 
