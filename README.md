@@ -11,12 +11,9 @@
 - Free support via **Github** 
 - Paid Support **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
 
-<br />
-
-## Dashboard Links
+> Links
 
 - [Flask Dashboard NowUI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Product page
-- [Flask Dashboard NowUI](https://github.com/app-generator/flask-now-ui-dashboard/) - Source Code
 - [Flask Dashboard NowUI](https://flask-now-ui-dashboard.appseed.us/login.html) - LIVE Demo
 - More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
 - [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
