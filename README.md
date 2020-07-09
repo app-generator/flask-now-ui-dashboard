@@ -1,4 +1,4 @@
-# [Flask Dashboard NowUI](https://appseed.us/admin-dashboards/flask-nowui-dashboard)
+# [Flask Dashboard - Now UI Design](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -13,10 +13,10 @@
 
 > Links
 
-- [Flask Dashboard NowUI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Product page
-- [Flask Dashboard NowUI](https://flask-now-ui-dashboard.appseed.us/login.html) - LIVE Demo
-- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
-- [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
+- [Flask Dashboard - Now UI Design](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Product page
+- [Flask Dashboard Now UI Demo](https://flask-now-ui-dashboard.appseed.us/) - LIVE App
+- More [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
+- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
 
 <br />
 
@@ -167,4 +167,4 @@ Now UI Dashboard is a responsive Bootstrap 4 kit provided for free by Invision a
 <br />
 
 ---
-[Flask Dashboard Now UI](https://appseed.us/admin-dashboards/flask-nowui-dashboard) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard - Now UI Design](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
