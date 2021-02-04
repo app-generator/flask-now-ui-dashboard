@@ -19,7 +19,7 @@ Now UI Dashboard is a responsive Bootstrap 4 kit provided for free by Invision a
 
 > Links
 
-- [Flask Now UI](https://appseed.us/admin-dashboards/flask-dashboard-nowui-design) - Product page
+- [Flask Now UI](https://appseed.us/admin-dashboards/flask-now-ui-dashboard) - Product page
 - [Flask Now UI - Demo](https://flask-now-ui-dashboard.appseed-srv1.com) - LIVE App deployment
 - [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
 
