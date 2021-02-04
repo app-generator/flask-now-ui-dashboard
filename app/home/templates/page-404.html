@@ -1,0 +1,37 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Error 404 {% endblock %} 
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+    <div class="panel-header panel-header-sm">
+    </div>
+    <div class="content">
+        <div class="row">
+            <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="title">Error 404</h5>
+                    <span>
+                        Page not found.
+                    </span>                    
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-10 pr-1">
+                            Please contact support - <a href="/" class="btn btn-primary">HOME</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}{% endblock javascripts %}
