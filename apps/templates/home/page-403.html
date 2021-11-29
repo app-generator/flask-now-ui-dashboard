@@ -1,0 +1,37 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Error 403 {% endblock %} 
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+    <div class="panel-header panel-header-sm">
+    </div>
+    <div class="content">
+        <div class="row">
+            <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="title">Error 403</h5>
+                    <span>
+                        Access denied.
+                    </span>                    
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-10 pr-1">
+                            Please contact support or <a href="/login.html" class="btn btn-primary">Authenticate</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}{% endblock javascripts %}
