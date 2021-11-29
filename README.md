@@ -46,6 +46,10 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
+![Flask Now UI Dashboard - Open-source Flask template crafted by AppSeed.](https://user-images.githubusercontent.com/51070104/143897048-b6591de0-de05-4c30-9ceb-e7c1ec5973fc.gif)
+
+<br />
+
 ## How to use it
 
 ```bash
