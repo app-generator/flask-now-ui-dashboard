@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.3] 2022-10-13
+### Improvements
+
+- Bump codebase version
+- Minor UI/UX improvements
+
 ## [1.0.2] 2021-11-29
 ### Improvements
 
